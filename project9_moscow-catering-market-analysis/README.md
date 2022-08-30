@@ -14,4 +14,4 @@
 ### Ключевые слова:
 обработка данных, визуализация данных, парсинг, создание презентаций
 
-[Презинтация по итогу проекта]()
+### [Презинтация по итогу проекта](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project9_moscow-catering-market-analysis/moscow-catering-market-analysis.pdf)
