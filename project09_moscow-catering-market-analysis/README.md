@@ -15,4 +15,4 @@
 обработка данных, визуализация данных, парсинг, создание презентаций
 
 [![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project09_moscow-catering-market-analysis/moscow-catering-market-analysis.ipynb)
-[![presentation](https://custom-icon-badges.herokuapp.com/badge/Presentation-24292f.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=f40f02)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project9_moscow-catering-market-analysis/moscow-catering-market-analysis.pdf)
+[![presentation](https://custom-icon-badges.herokuapp.com/badge/Presentation-24292f.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=f40f02)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project09_moscow-catering-market-analysis/moscow-catering-market-analysis.pdf)
