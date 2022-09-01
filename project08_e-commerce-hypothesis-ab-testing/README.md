@@ -13,3 +13,5 @@
 
 ### Ключевые слова:
 A/B-тест, статистический тест, Z-test, тест Манна-Уитни, фреймворк, RICE, ICE
+
+[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project08_e-commerce-hypothesis-ab-testing/ecommerce-hypothesis-ab-testing.ipynb)

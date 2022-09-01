@@ -15,3 +15,5 @@
 
 ### Ключевые слова:
 обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка
+
+[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project01_yandex-music/yandex-music.ipynb)
