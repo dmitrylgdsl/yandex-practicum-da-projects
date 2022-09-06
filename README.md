@@ -3,7 +3,7 @@
 
 Проекты выполненные в ходе обучения по профессии "Аналитик данных"<br>
 :mortar_board:[Диплом](/diploma_ru.pdf)<br>
-:mortar_board:[Diploma (english version)](/diploma_eu.pdf)<br>
+:mortar_board:[Diploma (english version)](/diploma_en.pdf)<br>
 
 | **Название проекта** | **Задачи проекта** | **Навыки и инструменты** | 
 | :---- | :---- | :---- |
