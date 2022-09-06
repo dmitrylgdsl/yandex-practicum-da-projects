@@ -14,7 +14,7 @@
 ### Ключевые слова:
 KMeans, Machine Learning, дендрограмма, RandomForestRegressor, LogisticRegression, метрика силуэта
 
-[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project12_customer-churn-prediction/customer-churn-prediction.ipynb)
+[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/customer-churn-prediction.ipynb)
 
 
 

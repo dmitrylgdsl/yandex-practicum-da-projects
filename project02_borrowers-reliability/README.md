@@ -13,4 +13,4 @@
 ### Ключевые слова:
 обработка данных, дубликаты, пропуски, категоризация, лемматизация
 
-[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project02_borrowers-reliability/borrowers-reliability.ipynb)
+[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/borrowers-reliability.ipynb)

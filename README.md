@@ -1,5 +1,5 @@
 # Аналитик данных — Яндекс.Практикум
-[![yandexpraktikum](https://custom-icon-badges.herokuapp.com/badge/Yandex.Practikum-ffcc00.svg?logo=yandexpractikum&style=for-the-badge)](https://practicum.yandex.ru/data-analyst/)
+[![yandexpraktikum](https://custom-icon-badges.herokuapp.com/badge/Yandex.Practicum-ffcc00.svg?logo=yandexpractikum&style=for-the-badge)](https://practicum.yandex.ru/data-analyst/)
 
 Проекты выполненные в ходе обучения по профессии "Аналитик данных"<br>
 :mortar_board:[Диплом](/diploma_ru.pdf)<br>
