@@ -14,4 +14,4 @@
 ### Ключевые слова:
 A/B-тест, визуализация, статистический тест, Z-test, поправка Бонферрони
 
-[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/mobile-app-event-analysis.ipynb)
+[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/project10_mobile-app-event-analysis/mobile-app-event-analysis.ipynb)

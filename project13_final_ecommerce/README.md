@@ -17,8 +17,8 @@
 ### Ключевые слова:
 обработка данных, категоризация, KMeans, Machine Learning, дендрограмма, метрика силуэта, презинтация, дашборд
 
-[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/final-ecommerce.ipynb)
-[![presentation](https://custom-icon-badges.herokuapp.com/badge/Presentation-24292f.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=f40f02)](/final-ecommerce.pdf)
+[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/project13_final_ecommerce/final-ecommerce.ipynb)
+[![presentation](https://custom-icon-badges.herokuapp.com/badge/Presentation-24292f.svg?logo=adobeacrobatreader&style=for-the-badge&logoColor=f40f02)](/project13_final_ecommerce/final-ecommerce.pdf)
 [![dashboard](https://custom-icon-badges.herokuapp.com/badge/Dashboard-24292f.svg?logo=tableau&style=for-the-badge)](https://public.tableau.com/app/profile/dmitrii.gorbachev/viz/ecomeproject/Dashboard)
 
 ## Часть 2: Оценка результатов A/B-теста
@@ -37,7 +37,7 @@
 ### Ключевые слова:
 A/B-тест, обработка данных, визуализация, воронка продаж, статистический тест, Z-test
 
-[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/final-ab-test.ipynb)
+[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/project13_final_ecommerce/final-ab-test.ipynb)
 
 ## Часть 3: Анализ базы данных сервиса чтения книг по подписке
 
@@ -53,4 +53,4 @@ A/B-тест, обработка данных, визуализация, вор�
 ### Ключевые слова:
 подключение к БД, выгрузка данных, SQL
 
-[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/final-sql.ipynb)
+[![notebook](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/project13_final_ecommerce/final-sql.ipynb)

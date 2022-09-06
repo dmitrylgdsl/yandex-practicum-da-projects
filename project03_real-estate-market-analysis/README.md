@@ -14,4 +14,4 @@
 ### Ключевые слова:
 обработка данных, категоризация, histogram, boxplot, scattermatrix, scatterplot, фрод-мониторинг
 
-[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](https://github.com/dmitrylgdsl/yandex-practikum-da-projects/blob/main/project03_real-estate-market-analysis/real-estate-market-analysis.ipynb)
+[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/project03_real-estate-market-analysis/real-estate-market-analysis.ipynb)

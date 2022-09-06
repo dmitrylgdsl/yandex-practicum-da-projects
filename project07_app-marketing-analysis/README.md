@@ -16,4 +16,4 @@
 ### Ключевые слова:
 обработка данных, когортный анализ, LTV, CAC, ROI, conversion, retention
 
-[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/app-marketing-analysis.ipynb)
+[![jupyter](https://custom-icon-badges.herokuapp.com/badge/Notebook-24292f.svg?logo=jupyter&style=for-the-badge)](/project07_app-marketing-analysis/app-marketing-analysis.ipynb)
